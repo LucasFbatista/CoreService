@@ -1,0 +1,109 @@
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\CoreServices.exe
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\CoreServices.deps.json
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\CoreServices.runtimeconfig.json
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\CoreServices.runtimeconfig.dev.json
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\CoreServices.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\CoreServices.pdb
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\obj\Debug\netcoreapp3.1\staticwebassets\CoreServices.StaticWebAssets.Manifest.cache
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\obj\Debug\netcoreapp3.1\staticwebassets\CoreServices.StaticWebAssets.xml
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.MvcApplicationPartsAssemblyInfo.cache
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.AssemblyInfoInputs.cache
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.AssemblyInfo.cs
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.RazorTargetAssemblyInfo.cache
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.csproj.CopyComplete
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.dll
+E:\Users\DevSystem\Documents\Projetos C#\Projetos .Net Core\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.pdb
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\CoreServices.exe
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\CoreServices.deps.json
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\CoreServices.runtimeconfig.json
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\CoreServices.runtimeconfig.dev.json
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\CoreServices.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\CoreServices.pdb
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.AssemblyInfoInputs.cache
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.AssemblyInfo.cs
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.RazorTargetAssemblyInfo.cache
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.csproj.CopyComplete
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\obj\Debug\netcoreapp3.1\staticwebassets\CoreServices.StaticWebAssets.Manifest.cache
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\obj\Debug\netcoreapp3.1\staticwebassets\CoreServices.StaticWebAssets.xml
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.pdb
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.genruntimeconfig.cache
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.csproj.CoreCompileInputs.cache
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucas.batista\Documents\Projetos\Projetos C#\Projetos WebApi\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.MvcApplicationPartsAssemblyInfo.cache
